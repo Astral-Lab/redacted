@@ -24,6 +24,9 @@ body {
     text-transform: uppercase;
     font-size: var(--f);
     overflow: hidden;
+    background-image: linear-gradient(to right, #80808005 1px, transparent 1px),
+    linear-gradient(to bottom, #80808005 1px, transparent 1px);
+    background-size: 24px 24px;
 }
 
 p {
